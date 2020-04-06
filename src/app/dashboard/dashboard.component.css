@@ -1,0 +1,52 @@
+
+.expan-panel{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    background-color: #ffff67;
+   
+}
+
+.expan{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+   
+     
+}
+
+.notes-container{
+
+    display: flex;
+    flex-direction: column;
+    background-color: #ffff67;
+    margin-bottom: 3%;
+}
+
+mat-panel-title{
+    background-color: rgb(252, 252, 119);
+}
+
+.card-title{
+    font: bold !important;
+}
+
+.example-card {
+    max-width: 400px;
+    background-color: #ffc107;
+    border-radius: 3%;
+    border-color: tomato;
+    border-style: solid;
+    
+  }
+
+mat-card{
+    margin : 2% 2% 2% 2%;
+}
+
+.btn{
+    margin-bottom: 5%;
+}
+.btn-logout{
+    margin-right: 5%;
+}
